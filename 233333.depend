@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1584779865 source:c:\users\ÔÂ°ÍÁú\documents\acm\233333\main.c
+	"hhh.h"
+
+1559803241 c:\users\ÔÂ°ÍÁú\documents\acm\233333\include\hhh.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1559801869 source:c:\users\ÔÂ°ÍÁú\documents\acm\233333\create.c
+	"hhh.h"
+
+1559799176 source:c:\users\ÔÂ°ÍÁú\documents\acm\233333\delete.c
+	"hhh.h"
+
+1559804022 source:c:\users\ÔÂ°ÍÁú\documents\acm\233333\excel.c
+	"hhh.h"
+
+1559803532 source:c:\users\ÔÂ°ÍÁú\documents\acm\233333\include.c
+	"hhh.h"
+
+1559803533 source:c:\users\ÔÂ°ÍÁú\documents\acm\233333\modiefy.c
+	"hhh.h"
+
+1559972559 source:c:\users\ÔÂ°ÍÁú\documents\acm\233333\output.c
+	"hhh.h"
+
+1559803533 source:c:\users\ÔÂ°ÍÁú\documents\acm\233333\search.c
+	"hhh.h"
+
+1559611081 source:c:\users\administrator\desktop\233333\excel.c
+	"hhh.h"
+
+1559609950 c:\users\administrator\desktop\233333\include\hhh.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1559212648 source:c:\users\administrator\desktop\233333\include.c
+	"hhh.h"
+
+1559611458 source:c:\users\administrator\desktop\233333\main.c
+	"hhh.h"
+
+1559133126 source:c:\users\administrator\desktop\233333\modiefy.c
+	"hhh.h"
+
+1559133126 source:c:\users\administrator\desktop\233333\output.c
+	"hhh.h"
+
+1559133126 source:c:\users\administrator\desktop\233333\search.c
+	"hhh.h"
+
+1559609921 source:c:\users\administrator\desktop\233333\create.c
+	"hhh.h"
+
+1559609921 source:c:\users\administrator\desktop\233333\delete.c
+	"hhh.h"
+
+1559611779 source:c:\users\administrator\desktop\233333\height.c
+	"hhh.h"
+
+1559799176 source:c:\users\ÔÂ°ÍÁú\documents\acm\233333\height.c
+	"hhh.h"
+
+1559803736 source:c:\users\ÔÂ°ÍÁú\documents\acm\233333\overwatch.c
+	"hhh.h"
+
+1559972476 source:c:\users\ÔÂ°ÍÁú\documents\acm\233333\untitled1.c
+	"hhh.h"
+
